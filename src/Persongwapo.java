@@ -1,4 +1,6 @@
 public class Persongwapo {
-    // hello
+    String name;
+    int age;
+    
 }
 
